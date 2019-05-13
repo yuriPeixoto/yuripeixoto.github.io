@@ -1,5 +1,5 @@
 # yuripeixoto.github.io
 
-[] Adicionar o favicon;
-[] Ajustar a cor do bg do header;
-[] Ajustar o tom de cinza do contact;
+- [ ] Adicionar o favicon;
+- [x] Ajustar a cor do bg do header;
+- [x] Ajustar o tom de cinza do contact;
