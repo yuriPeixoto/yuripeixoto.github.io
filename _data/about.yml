@@ -1,0 +1,32 @@
+- name: "In the beginning"
+  image: "1.jpg"
+  img-alt: "image description"
+  year: "1991"
+  text: "Ganhei meu primeiro computador por volta desse período. Foi quando começei a programar. Desde então muda-se a 
+  linguagem, mas não a paixão."
+  side: left
+
+- name: "Novos ares"
+  image: "2.jpg"
+  img-alt: "image description"
+  year: "2005"
+  text: "Me mudei de Araguari, interior de Minas Gerais, para Cuiabá, capital do Mato Grosso. Uma mudança em busca de 
+  maiores e melhores oportunidades."
+  side: right
+
+- name: "Entrei para a Universidade"
+  image: "3.jpg"
+  img-alt: "image description"
+  year: "2012-2016"
+  text: "Após um Enem muito bem sucedido, adentrei a universidade federal. Me formei em Comunicação Social - Publicidade
+   e Propaganda, usando como tema de pesquisa a relevância dos símbolos - principalmente a figura do herói e do heroísmo
+    para a sociedade e como eles podem ser melhor trabalhados pela publicidade."
+  side: left
+
+- name: "Vida pós Universidade"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "Março 2017"
+  text: "Após formado, procurei algo que se encaixava no meu perfil, tanto como publicitário quanto como na minha 
+  paixão que é o desenvolvimento web. Acabei contratado como Analista de Mídias Sociais e Programador Web da Associação Mato-grossense dos Defensores Públicos."
+  side: right

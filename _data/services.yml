@@ -1,0 +1,11 @@
+- name: "Desenvolvimento Web"
+  icon: "code"
+  description: "Seu site desenvolvido com algumas das mais confiáveis linguagens atuais. PHP7, MySQL, Bootstrap 4, CSS 3."
+
+- name: "Wordpress"
+  icon: "wordpress"
+  description: "Desenvolvimento e configuração de sites na plataforma Wordpress. Escolha de tema condizente com o da empresa, passando pela configuração, até a hospedagem."
+
+- name: "Design Responsivo"
+  icon: "laptop"
+  description: "Seu site irá se adaptar ao tamanho da tela do usuário. Não importa se essa tela seja um celular, tablet ou smart tv, o seu clientee terá sempre a melhor experiência."

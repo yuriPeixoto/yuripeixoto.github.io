@@ -1,0 +1,15 @@
+- img-alt: "PHP logo"
+  logo: "php.jpg"
+  web: "https://www.php-fig.org"
+
+- img-alt: "MySQL logo"
+  logo: "mysql.jpg"
+  web: "https://www.mysql.com"
+
+- img-alt: "Jekyll logo"
+  logo: "jekyll.jpg"
+  web: "https://jekyllrb.com"
+
+- img-alt: "Slim logo"
+  logo: "slim.jpg"
+  web: "http://www.slimframework.com"
