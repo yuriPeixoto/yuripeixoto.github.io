@@ -1,16 +1,16 @@
 - order: 001
-  name: "Dr. Edson Freitas"
-  category: "Wordpress"
-  date: "Março 2019"
-  client: "Dr. Edson Freitas"
-  web: "http://dredsonfreitas.com"
+  name: "Agrotippo"
+  category: "PHP"
+  date: "Março 2021"
+  client: "Agrotippo"
+  web: "http://agrotippo.com.br/"
   photo: "edson.jpg"
   img-alt: "Parcial da homepage do site"
   id: "portfolioModal01"
-  description: "Site desenvolvido em Wordpress para apresentação do trabalho do cliente."
+  description: "Site institucional desenvolvido em PHP 7.4 e Slim Framework."
   claim: "Vitrine virtual do cirurgião."
-  call-to-action: "O cliente queria uma vitrine para expor seus serviços que passasse uma ideia de qualidade e
-  seriedade. Os tons de grafite e branco são os mesmos da identidade visual do cliente."
+  call-to-action: "A empresa necessitava de um sistema simples mas eficiente para exibir seus produtos. 
+  O site foi todo feito usando tecnologias modernas, adaptado para o mobile, e o painel administrativo possui sistema para cadastro de produtos, categorias, e usuários."
 
 - order: 002
   name: "GHD Imobiliária"
