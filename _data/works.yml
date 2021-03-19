@@ -26,6 +26,19 @@
   call-to-action: "A empresa necessitava de uma presença web além das mídias sociais."
 
 - order: 003
+  name: "Ideias por Cuiabá"
+  category: "Wordpress"
+  date: "Setembro 2020"
+  client: "PDT"
+  web: "https://ideiasporcuiaba.com.br/"
+  photo: "ideiasporcuiaba.png"
+  img-alt: "Parcial da homepage do site"
+  id: "portfolioModal03"
+  description: "Site desenvolvido em Wordpress | Elementor."
+  claim: "Site institucional desenvolvido para o PDT."
+  call-to-action: "Projeto inédito que visou dar espaço a todos os candidatos a vereador do partido, nas eleições de 2020."
+
+- order: 004
   name: "Cacttus Brasil"
   category: "PHP"
   date: "Junho 2020"
@@ -33,12 +46,12 @@
   web: "http://unibrasilsistemas.com.br/"
   photo: "cacttus.png"
   img-alt: "Parcial da homepage do site"
-  id: "portfolioModal03"
+  id: "portfolioModal04"
   description: "Site institucional desenvolvido em PHP 7.4 e Slim Framework."
   claim: "Site institucional de empresa de software"
   call-to-action: "Sistema simples e eficiente para exibição dos sistemas e auxílio no contato com os clientes."
 
-- order: 004
+- order: 005
   name: "Arquiteta Karla Araújo"
   category: "PHP"
   date: "Março 218"
@@ -51,7 +64,7 @@
   claim: "Loja virtual, portfolio e blog."
   call-to-action: "Cliente necessitava migrar do Wix para um serviço realmente funcional e abrangente."
 
-- order: 005
+- order: 006
   name: "Verde Elfa"
   category: "Wordpress"
   date: "Março 218"
@@ -66,7 +79,7 @@
   call-to-action: "Cliente necessitava de uma loja virtual e também de um espaço para expor suas artes, e para escrever
    sobre o meio artístico."
 
-- order: 006
+- order: 007
   name: "Amdep"
   category: "PHP"
   date: "Março 2017"
@@ -80,7 +93,7 @@
   claim: "Site organizacional com expressiva área interna."
   call-to-action: "Desenvolvido em PHP 5.3 procedural, atualmente sendo atualizado para o PHP 7 usando o Slim framework."
 
-- order: 007
+- order: 008
   name: "Ouro Planejamento"
   category: "PHP"
   date: "Julho 2017"
@@ -93,7 +106,7 @@
   claim: "Site de blog de divulgação da empresa."
   call-to-action: "Site desenvolvido para garantir presença web, e captar novos clientes."
 
-- order: 008
+- order: 009
   name: "UFMT Ciência"
   category: "Drupal"
   date: "Novembro 2016"
