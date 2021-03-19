@@ -4,44 +4,54 @@
   date: "Março 2021"
   client: "Agrotippo"
   web: "http://agrotippo.com.br/"
-  photo: "edson.jpg"
+  photo: "agrotippo.png"
   img-alt: "Parcial da homepage do site"
   id: "portfolioModal01"
   description: "Site institucional desenvolvido em PHP 7.4 e Slim Framework."
-  claim: "Vitrine virtual do cirurgião."
+  claim: "Site institucional de empresa agrícola."
   call-to-action: "A empresa necessitava de um sistema simples mas eficiente para exibir seus produtos. 
   O site foi todo feito usando tecnologias modernas, adaptado para o mobile, e o painel administrativo possui sistema para cadastro de produtos, categorias, e usuários."
 
 - order: 002
-  name: "GHD Imobiliária"
+  name: "Clínica Splendia"
   category: "Wordpress"
-  date: "Abril 2019"
-  client: "GHD Imobiliária"
-  web: "http://ghdimobiliaria.com.br"
-  photo: "ghd.png"
+  date: "Janeiro 2021"
+  client: "Clínica Splendia"
+  web: "https://clinicasplendia.com.br/"
+  photo: "splendia.png"
   img-alt: "Parcial da homepage do site"
   id: "portfolioModal02"
-  description: "Site para imobiliária contendo sistema de busca avançado, compartilhamento em redes sociais, e cobrindo
-  uma ampla região do estado!"
-  claim: "Site para Imobiliária com listagem dos imóveis da região."
-  call-to-action: "O cliente necessitava de um site para listar seus imóveis, para alinhamento com marketing de mídias 
-  sociais."
+  description: "Site institucional desenvolvido em Wordpress | Elementor."
+  claim: "Site institucional de Clínica de Dermatologia e Fisioterapia."
+  call-to-action: "A empresa necessitava de uma presença web além das mídias sociais."
 
 - order: 003
-  name: "Arquiteta Karla Araujo"
+  name: "Cacttus Brasil"
   category: "PHP"
-  date: "Março 2019"
-  client: "Karla Araujo"
-  web: "https://www.arquitetakarlaaraujo.com.br/"
-  photo: "karla.png"
-  img-alt: "Photo description"
+  date: "Junho 2020"
+  client: "Cacttus Brasil Sistemas"
+  web: "http://unibrasilsistemas.com.br/"
+  photo: "cacttus.png"
+  img-alt: "Parcial da homepage do site"
   id: "portfolioModal03"
-  description: "Blog e portfolio desenvolvidos em PHP procedural, com alguns elementos de POO!"
-  claim: "Blog e portfolio, criação autoral."
-  call-to-action: "Cliente possuia o site na plataforma Wix e necessitava de algo melhor e com mais possibilidades de
-  customização."
+  description: "Site institucional desenvolvido em PHP 7.4 e Slim Framework."
+  claim: "Site institucional de empresa de software"
+  call-to-action: "Sistema simples e eficiente para exibição dos sistemas e auxílio no contato com os clientes."
 
 - order: 004
+  name: "Arquiteta Karla Araújo"
+  category: "PHP"
+  date: "Março 218"
+  client: "Karla Araújo"
+  web: "https://arquitetakarlaaraujo.com.br/"
+  photo: "karla.png"
+  img-alt: "Photo description"
+  id: "portfolioModal04"
+  description: "Vitrine institucional e blog desenvolvidos em PHP 7.4"
+  claim: "Loja virtual, portfolio e blog."
+  call-to-action: "Cliente necessitava migrar do Wix para um serviço realmente funcional e abrangente."
+
+- order: 005
   name: "Verde Elfa"
   category: "Wordpress"
   date: "Março 218"
@@ -49,14 +59,14 @@
   web: "http://verdeelfa.com"
   photo: "verdeelfa.png"
   img-alt: "Photo description"
-  id: "portfolioModal04"
+  id: "portfolioModal05"
   description: "Loja virtual, portfolio e blog da ilustradora Demi Goldheart, para atender os clientes tanto do Brasil 
   quanto do exterior."
   claim: "Loja virtual, portfolio e blog. 2 idiomas."
   call-to-action: "Cliente necessitava de uma loja virtual e também de um espaço para expor suas artes, e para escrever
    sobre o meio artístico."
 
-- order: 005
+- order: 006
   name: "Amdep"
   category: "PHP"
   date: "Março 2017"
@@ -64,13 +74,26 @@
   web: "http://amdep.org.br"
   photo: "amdep.png"
   img-alt: "Photo description"
-  id: "portfolioModal05"
+  id: "portfolioModal06"
   description: "Site da organização. Possui extensa área interna, com informações relevantes para os associados. Feito
    em PHP procedural. Atualmente sendo atualizado para o PHP 7, usando o framework Slim."
   claim: "Site organizacional com expressiva área interna."
   call-to-action: "Desenvolvido em PHP 5.3 procedural, atualmente sendo atualizado para o PHP 7 usando o Slim framework."
 
-- order: 006
+- order: 007
+  name: "Ouro Planejamento"
+  category: "PHP"
+  date: "Julho 2017"
+  client: "Ouro Planejamento Financeiro"
+  web: "http://ouroplanejamento.com.br/"
+  photo: "ouro.png"
+  img-alt: "Photo description"
+  id: "portfolioModal07"
+  description: "Trabalho duplo, site desenvolvido em PHP procedural, blog em Wordpress"
+  claim: "Site de blog de divulgação da empresa."
+  call-to-action: "Site desenvolvido para garantir presença web, e captar novos clientes."
+
+- order: 008
   name: "UFMT Ciência"
   category: "Drupal"
   date: "Novembro 2016"
@@ -78,7 +101,7 @@
   web: "https://www.ufmt.br/ufmtciencia"
   photo: "ufmtciencia.png"
   img-alt: "Photo description"
-  id: "portfolioModal06"
+  id: "portfolioModal08"
   description: "Versão digital da revista UFMT Ciência, de divulgação científica"
   claim: "Revista digital de divulgação científica."
   call-to-action: "Site desenvolvido seguindo as diretrizes de Governo Federal."
