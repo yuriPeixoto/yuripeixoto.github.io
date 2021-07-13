@@ -1,19 +1,21 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     agency-jekyll-theme (1.0.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
+    ffi (1.15.0)
     ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    i18n (1.8.9)
+    i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.8.7)
       addressable (~> 2.4)
@@ -57,17 +59,16 @@ GEM
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
-    wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   agency-jekyll-theme
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.2.13
