@@ -1,3 +1,10 @@
-_site
-.sass-cache
-.jekyll-metadata
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
